@@ -1,0 +1,30 @@
+div {
+    display: inline-block;
+}
+
+div.top-container {
+    background-color: blue;
+}
+
+div.middle-container {
+    background-color: yellow;
+    position: relative;
+    /* margin-left: 200px;
+    margin-bottom: 200px; */
+    /* left: 200px;
+    bottom: 200px; */
+}
+
+div.bottom-container {
+    background-color: red;
+    position: relative;
+    /* left: 400px;
+    bottom: 400px; */
+    /* margin-left: 400px;
+    margin-bottom: 400px; */
+}
+
+div.square {
+    height: 200px;
+    width: 200px;
+}
